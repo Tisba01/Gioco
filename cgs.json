@@ -19,15 +19,10 @@
       "type": "stringEnum"
     },
     {
-      "name": "id",
-      "display": "Id",
-      "type": "stringEnum"
-    },
-    {
       "name": "color",
       "display": "Color",
       "type": "stringEnum"
-    },
+    }
   ],
   "cardSize": {
     "x": 2.5,
