@@ -1,25 +1,2 @@
-[
-  {
-    "set": "Base",
-    "id": "1",
-    "name": "Castello",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
-  }
+[{"set": "Base", "name":"Guerriero", "id":"1" "colore":"blu"}
 ]
