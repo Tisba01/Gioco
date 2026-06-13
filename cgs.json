@@ -6,7 +6,7 @@
   "bannerImageUrl": null,
   "cardBackImageUrl": null,
   "cardImageFileType": "png",
-  "cardImageUrl": "https://raw.githubusercontent.com/Tisba01/Gioco/refs/heads/main/Carte/{cardId}.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/Tisba01/Gioco/main/Carte/{cardId}.png",
   "cardSetIdentifier": "card_sets",
   "cardSetIsObject": true,
   "cardSetNameIdentifier": "set_code",
