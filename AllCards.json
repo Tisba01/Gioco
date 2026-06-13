@@ -1,8 +1,8 @@
 [
   {
+    "set": "Base",
     "id": "1",
     "name": "Castello",
-    "set": "Base",
     "properties": {
       "description": {
         "def": {
