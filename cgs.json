@@ -20,8 +20,8 @@
       "type": "stringEnum"
     },
     {
-      "name": "color",
-      "display": "Color",
+      "name": "colore",
+      "display": "Colore",
       "type": "stringEnum"
     },
     {
