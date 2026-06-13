@@ -1,41 +1,17 @@
 {
   "name": "Prova",
   "allCardsUrl": null,
-  "allCardsUrlPageCount": 1,
-  "allCardsUrlPageCountIdentifier": "",
-  "allCardsUrlPageCountDivisor": 1,
-  "allCardsUrlPageCountStartIndex": 1,
-  "allCardsUrlPageIdentifier": "?page=",
-  "allCardsUrlPostBodyContent": "",
-  "allCardsUrlRequestHeader": "X-Api-Key",
-  "allCardsUrlRequestHeaderValue": "",
-  "allCardsUrlWrapped": false,
-  "allCardsUrlZipped": false,
-  "allDecksUrl": null,
-  "allDecksUrlDataIdentifier": "",
-  "allDecksUrlPostBodyContent": "",
-  "allDecksUrlTxtRoot": "",
-  "allSetsUrl": null,
-  "allSetsUrlWrapped": false,
-  "allSetsUrlZipped": false,
-  "autoUpdate": -1,
   "autoUpdateUrl": null,
   "bannerImageFileType": "png",
   "bannerImageUrl": null,
-  "cardBackFaceImageUrls": [],
-  "cardBackImageFileType": "png",
   "cardBackImageUrl": null,
-  "cardDataIdentifier": "",
-  "cardIdIdentifier": "id",
-  "cardIdStop": "",
   "cardImageFileType": "png",
-  "cardImageFileTypeIdentifier": "",
-  "cardImageProperty": "",
   "cardImageUrl": "",
-  "cardNameBackIdentifier": "",
-  "cardNameIdentifier": "name",
-  "cardNameIsUnique": true,
-  "cardPrimaryProperty": "description",
+  "cardSetIdentifier": "card_sets",
+  "cardSetIsObject": true,
+  "cardSetNameIdentifier": "set_code",
+  "cardSetsInList": true,
+  "cardPrimaryProperty": "desc",
   "cardProperties": [
     {
       "name": "type",
@@ -54,14 +30,6 @@
       "properties": []
     }
   ],
-  "cardPropertyIdentifier": "id",
-  "cardRotationDefault": 0,
-  "cardRotationIdentifier": "",
-  "cardSetIdentifier": "setCode",
-  "cardSetIsObject": false,
-  "cardSetNameIdentifier": "setname",
-  "cardSetsInList": false,
-  "cardSetsInListIsCsv": false,
   "cardSize": {
     "x": 2.5,
     "y": 3.5
@@ -69,10 +37,8 @@
   "cgsGamesLink": null,
   "copyright": "",
   "deckFileAltId": "dbfId",
-  "deckFileTxtId": "set",
-  "deckFileType": "txt",
-  "deckPlayCards": [],
-  "deckSharePreference": "share",
+  "deckFileType": "ydk",
+  "deckSharePreference": "individual",
   "deckUrls": [],
   "enums": [
     {
@@ -100,8 +66,8 @@
   "gameStartDecks": [],
   "gameStartHandCount": 5,
   "gameStartPointsCount": 20,
-  "playMatImageFileType": "png",
-  "playMatImageUrl": "C:/Users/jesoi/AppData/Local/Temp/Finol Digital LLC/Card Game Simulator\\mappa.jpg",
+  "playMatImageFileType": "jpg",
+  "playMatImageUrl": "https://i.postimg.cc/fWrVwWCv/mappa.jpg",
   "playMatSize": {
     "x": 36.0,
     "y": 36.0
@@ -111,11 +77,6 @@
     "y": 0.5
   },
   "rulesUrl": null,
-  "setCardsIdentifier": "cards",
-  "setCardsUrlIdentifier": "cardsUrl",
-  "setCodeDefault": "_CGSDEFAULT_",
-  "setCodeIdentifier": "code",
-  "setDataIdentifier": "",
-  "setNameDefault": "_CGSDEFAULT_",
-  "setNameIdentifier": "name"
+  "setCodeIdentifier": "set_code",
+  "setNameIdentifier": "set_name"
 }
