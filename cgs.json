@@ -85,9 +85,9 @@
   "rulesUrl": null,
   "setCardsIdentifier": "cards",
   "setCardsUrlIdentifier": "cardsUrl",
-  "setCodeDefault": "",
+  "setCodeDefault": "Base",
   "setCodeIdentifier": "code",
   "setDataIdentifier": "",
-  "setNameDefault": "",
+  "setNameDefault": "Base",
   "setNameIdentifier": "name"
 }
