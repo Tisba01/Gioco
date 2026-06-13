@@ -1,6 +1,6 @@
 {
   "name": "Prova",
-  "allCardsUrl": "https://raw.githubusercontent.com/Tisba01/Gioco/refs/heads/main/AllCards.json",
+  "allCardsUrl": "null",
   "autoUpdateUrl": "https://raw.githubusercontent.com/Tisba01/Gioco/refs/heads/main/cgs.json",
   "bannerImageFileType": "png",
   "bannerImageUrl": null,
