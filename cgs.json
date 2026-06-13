@@ -1,5 +1,5 @@
 {
-  "name": "Gioco",
+  "name": "Prova",
   "allCardsUrl": null,
   "allCardsUrlPageCount": 1,
   "allCardsUrlPageCountIdentifier": "",
@@ -38,6 +38,11 @@
   "cardPrimaryProperty": "description",
   "cardProperties": [
     {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
       "name": "description",
       "type": "string",
       "display": "Description",
@@ -69,21 +74,34 @@
   "deckPlayCards": [],
   "deckSharePreference": "share",
   "deckUrls": [],
-  "enums": [],
+  "enums": [
+    {
+      "property": "type",
+      "values": {
+        "Creatura": "Creatura",
+        "Castello": "Castello"
+      }
+    }
+  ],
   "extras": [],
   "gameBoardImageFileType": "png",
   "gameBoardCards": [],
   "gameBoardUrls": [],
   "gameCardRotationDegrees": 90,
-  "gameDefaultCardAction": "flip",
-  "gamePlayDeckName": "",
-  "gamePlayDeckPositions": [],
+  "gameDefaultCardAction": "tap",
+  "gamePlayDeckName": "Deck",
+  "gamePlayDeckPositions": [
+    {
+      "x": 15,
+      "y": -12
+    }
+  ],
   "gamePlayZones": [],
   "gameStartDecks": [],
-  "gameStartHandCount": 0,
-  "gameStartPointsCount": 0,
+  "gameStartHandCount": 5,
+  "gameStartPointsCount": 20,
   "playMatImageFileType": "png",
-  "playMatImageUrl": null,
+  "playMatImageUrl": "C:/Users/jesoi/AppData/Local/Temp/Finol Digital LLC/Card Game Simulator\\mappa.jpg",
   "playMatSize": {
     "x": 36.0,
     "y": 36.0
