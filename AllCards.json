@@ -1,8 +1,9 @@
 [
   {
-    "id": "449A713C-60F3-48DD-ACAA-12E65C3A176B",
+    "id": "000",
     "name": "Castello",
-    "setCode": "aaaa",
+    "setCode": "base",
+    "type": "Castello"
     "properties": {
       "description": {
         "def": {
