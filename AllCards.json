@@ -1,2 +1,25 @@
-[{"set": "Base", "name":"Guerriero", "id":"1" "colore":"blu"}
+[
+  {
+    "id": "7176D438-9643-46C2-B42E-84EC1A182432",
+    "name": "Castello",
+    "setCode": "aaaa",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  }
 ]
