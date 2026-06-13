@@ -24,15 +24,15 @@
       "type": "stringEnum"
     },
     {
-  "name": "description",
-  "type": "string",
-  "display": "Description",
-  "displayEmpty": "",
-  "displayEmptyFirst": false,
-  "delimiter": "",
-  "backName": "",
-  "frontName": "",
-  "properties": []
+      "name": "description",
+      "type": "string",
+      "display": "Description",
+      "displayEmpty": "",
+      "displayEmptyFirst": false,
+      "delimiter": "",
+      "backName": "",
+      "frontName": "",
+      "properties": []
     }
   ],
   "cardSize": {
