@@ -6,7 +6,7 @@
   "bannerImageUrl": null,
   "cardBackImageUrl": null,
   "cardImageFileType": "png",
-  "cardImageUrl": "https://postimg.cc/gallery/Ym8XpV4",
+  "cardImageUrl": "https://postimg.cc/gallery/Ym8XpV4{cardId}.{cardImageFileType}",
   "cardSetIdentifier": "card_sets",
   "cardSetIsObject": true,
   "cardSetNameIdentifier": "set_code",
