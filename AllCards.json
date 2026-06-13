@@ -1,13 +1,14 @@
 {
   "data": [
   {
-    "id": "000",
+    "id": 000,
     "name": "Castello",
     "setCode": "base",
     "type": "Castello",
     "color": "Blu",
     "card_images": [
         {
+          "id": 000,
           "image_url": "https://i.postimg.cc/yxVys1yG/Castello.png"
         }
       ]
