@@ -22,6 +22,17 @@
       "name": "color",
       "display": "Color",
       "type": "stringEnum"
+    },
+    {
+  "name": "description",
+  "type": "string",
+  "display": "Description",
+  "displayEmpty": "",
+  "displayEmptyFirst": false,
+  "delimiter": "",
+  "backName": "",
+  "frontName": "",
+  "properties": []
     }
   ],
   "cardSize": {
