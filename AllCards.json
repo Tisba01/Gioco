@@ -1,26 +1,15 @@
-[
+{
+  "data": [
   {
     "id": "000",
     "name": "Castello",
     "setCode": "base",
-    "type": "Castello"
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
+    "type": "Castello",
+    "color": "Blu",
+    "card_images": [
+      {
+        "image_url": "https://i.postimg.cc/yxVys1yG/Castello.png"
       }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
-  }
-]
+    ]
+  ]
+}
