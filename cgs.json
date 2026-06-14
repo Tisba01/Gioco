@@ -9,7 +9,7 @@
   "cardImageFileType": "png",
   "cardImageUrl": "https://raw.githubusercontent.com/Tisba01/Gioco/main/sets/{cardSet}/{cardId}.png",
   "cardSetIdentifier": "set",
-  "cardSetIsObject": true,
+  "cardSetIsObject": false,
   "cardSetNameIdentifier": "setname",
   "cardSetsInList": false,
   "cardPrimaryProperty": "desc",
