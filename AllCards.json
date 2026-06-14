@@ -4,7 +4,7 @@
     "name": "Castello",
     "set": "1",
     "type": "Castello",
-    "risorsa": "Generica",
+    "risorsa": {"Generica","sangue"},
     "properties": {
       "description": {
         "def": {
