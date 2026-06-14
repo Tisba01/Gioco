@@ -24,7 +24,7 @@
       "display": "Risorsa",
       "displayEmpty": "Generico",
       "displayEmptyFirst": true,
-      "type": "stringEnum"
+      "type": "stringEnumList"
     },
     {
       "name": "description",
