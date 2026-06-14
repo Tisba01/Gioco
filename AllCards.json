@@ -28,7 +28,7 @@
     "name": "Terreni agricoli",
     "set": "1",
     "type": "Castello",
-    "risorsa": ["C","S"],
+    "risorsa": "C",
     "properties": {
       "description": {
         "def": {
