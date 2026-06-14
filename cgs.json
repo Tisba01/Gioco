@@ -46,8 +46,8 @@
     {
       "property": "type",
       "values": {
-        "Creatura": "Creatura",
-        "Castello": "Castello"
+        "Castello": "Castello",
+        "Creatura": "Creatura"
       }
     },
     {
