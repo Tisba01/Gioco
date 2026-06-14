@@ -20,8 +20,8 @@
       "type": "stringEnum"
     },
     {
-      "name": "colore",
-      "display": "Colore",
+      "name": "risorsa",
+      "display": "Risorsa",
       "type": "stringEnum"
     },
     {
@@ -52,6 +52,17 @@
       "values": {
         "Creatura": "Creatura",
         "Castello": "Castello"
+      }
+    },
+    {
+  "property": "risorsa",
+  "values": {
+    "Generica": "Generica",
+    "Cibo": "Cibo",
+    "Sangue": "Sangue",
+    "Mana": "Mana",
+    "Sacro": "Sacro",
+    "Materiali": "Materiali"
       }
     }
   ],
