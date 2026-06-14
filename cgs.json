@@ -22,6 +22,8 @@
     {
       "name": "risorsa",
       "display": "Risorsa",
+      "displayEmpty": "Generico",
+      "displayEmptyFirst": true,
       "type": "stringEnum"
     },
     {
@@ -57,12 +59,11 @@
     {
   "property": "risorsa",
   "values": {
-    "Generica": "Generica",
-    "Cibo": "Cibo",
-    "Sangue": "Sangue",
-    "Mana": "Mana",
-    "Sacro": "Sacro",
-    "Materiali": "Materiali"
+    "C": "Cibo",
+    "S": "Sangue",
+    "M": "Mana",
+    "D": "Sacro",
+    "M": "Materiali"
       }
     }
   ],
