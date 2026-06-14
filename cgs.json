@@ -30,17 +30,6 @@
       "name": "costo",
       "display": "Costo",
       "type": "string"
-    },
-    {
-      "name": "description",
-      "type": "string",
-      "display": "Description",
-      "displayEmpty": "",
-      "displayEmptyFirst": false,
-      "delimiter": "",
-      "backName": "",
-      "frontName": "",
-      "properties": []
     }
   ],
   "cardSize": {
