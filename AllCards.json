@@ -4,22 +4,7 @@
     "name": "Castello",
     "set": "1",
     "type": "Castello",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
+    "properties": {},
     "isBackFaceCard": false,
     "backFaceId": ""
   },
