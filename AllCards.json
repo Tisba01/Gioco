@@ -24,8 +24,100 @@
   },
   {
     "id": "2",
-    "name": "LIII",
-    "set": "2",
+    "name": "Terreni agricoli",
+    "set": "1",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "3",
+    "name": "Cimitero",
+    "set": "1",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "4",
+    "name": "Torre dei maghi",
+    "set": "1",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "5",
+    "name": "Chiesa",
+    "set": "1",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "6",
+    "name": "Miniera",
+    "set": "1",
     "properties": {
       "description": {
         "def": {
