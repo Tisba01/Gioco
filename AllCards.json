@@ -21,5 +21,28 @@
     },
     "isBackFaceCard": false,
     "backFaceId": ""
+  },
+  {
+    "id": "1",
+    "name": "Castello",
+    "set": "2",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
   }
 ]
