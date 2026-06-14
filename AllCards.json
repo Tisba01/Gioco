@@ -2,14 +2,14 @@
   {
     "id": "1",
     "name": "Castello",
-    "set": "1",
+    "set": "BST",
     "type": "Castello",
     "properties": {}
   },
   {
     "id": "2",
     "name": "Terreni agricoli",
-    "set": "1",
+    "set": "BST",
     "type": "Castello",
     "risorsa": "C",
     "properties": {}
@@ -17,7 +17,7 @@
   {
     "id": "3",
     "name": "Cimitero",
-    "set": "1",
+    "set": "BST",
     "type": "Castello",
     "risorsa": "S",
     "properties": {}
@@ -25,7 +25,7 @@
   {
     "id": "4",
     "name": "Torre dei maghi",
-    "set": "1",
+    "set": "BST",
     "type": "Castello",
     "risorsa": "M",
     "properties": {}
@@ -33,7 +33,7 @@
   {
     "id": "5",
     "name": "Chiesa",
-    "set": "1",
+    "set": "BST",
     "type": "Castello",
     "risorsa": "D",
     "properties": {}
@@ -41,7 +41,7 @@
   {
     "id": "6",
     "name": "Miniera",
-    "set": "1",
+    "set": "BST",
     "type": "Castello",
     "risorsa": "L",
     "properties": {}
