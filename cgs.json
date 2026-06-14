@@ -33,8 +33,8 @@
     }
   ],
   "cardSize": {
-    "x": 2.5,
-    "y": 3.5
+    "x": 3.5,
+    "y": 4.5
   },
   "cgsGamesLink": null,
   "copyright": "",
@@ -70,8 +70,8 @@
   "gamePlayDeckName": "Deck",
   "gamePlayDeckPositions": [
     {
-      "x": 15,
-      "y": -12
+      "x": 20,
+      "y": -15
     }
   ],
   "gamePlayZones": [],
