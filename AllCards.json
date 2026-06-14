@@ -12,24 +12,7 @@
     "set": "1",
     "type": "Castello",
     "risorsa": "C",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
+    "properties": {}
   },
   {
     "id": "3",
@@ -37,24 +20,7 @@
     "set": "1",
     "type": "Castello",
     "risorsa": "S",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
+    "properties": {}
   },
   {
     "id": "4",
@@ -62,24 +28,7 @@
     "set": "1",
     "type": "Castello",
     "risorsa": "M",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
+    "properties": {}
   },
   {
     "id": "5",
@@ -87,24 +36,7 @@
     "set": "1",
     "type": "Castello",
     "risorsa": "D",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
+    "properties": {}
   },
   {
     "id": "6",
@@ -112,23 +44,6 @@
     "set": "1",
     "type": "Castello",
     "risorsa": "L",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
+    "properties": {}
   }
 ]
