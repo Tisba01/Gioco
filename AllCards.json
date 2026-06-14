@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Castello",
     "set": "1",
-    "type": "castello",
+    "type": "Castello",
     "properties": {
       "description": {
         "def": {
@@ -27,7 +27,7 @@
     "id": "2",
     "name": "Terreni agricoli",
     "set": "1",
-    "type": "castello",
+    "type": "Castello",
     "properties": {
       "description": {
         "def": {
@@ -51,7 +51,7 @@
     "id": "3",
     "name": "Cimitero",
     "set": "1",
-    "type": "castello",
+    "type": "Castello",
     "properties": {
       "description": {
         "def": {
@@ -75,7 +75,7 @@
     "id": "4",
     "name": "Torre dei maghi",
     "set": "1",
-    "type": "castello",
+    "type": "Castello",
     "properties": {
       "description": {
         "def": {
@@ -99,7 +99,7 @@
     "id": "5",
     "name": "Chiesa",
     "set": "1",
-    "type": "castello",
+    "type": "Castello",
     "properties": {
       "description": {
         "def": {
@@ -123,7 +123,7 @@
     "id": "6",
     "name": "Miniera",
     "set": "1",
-    "type": "castello",
+    "type": "Castello",
     "properties": {
       "description": {
         "def": {
