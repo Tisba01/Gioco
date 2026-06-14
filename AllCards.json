@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Castello",
-    "setCode": "1",
+    "set": "1",
     "properties": {
       "description": {
         "def": {
