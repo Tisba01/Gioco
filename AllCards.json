@@ -4,7 +4,7 @@
     "name": "Castello",
     "set": "1",
     "type": "Castello",
-    "risorsa": "generica",
+    "risorsa": "Generica",
     "properties": {
       "description": {
         "def": {
@@ -29,6 +29,7 @@
     "name": "Terreni agricoli",
     "set": "1",
     "type": "Castello",
+    "risorsa": "Cibo",
     "properties": {
       "description": {
         "def": {
@@ -53,6 +54,7 @@
     "name": "Cimitero",
     "set": "1",
     "type": "Castello",
+    "risorsa": "Sangue",
     "properties": {
       "description": {
         "def": {
@@ -77,6 +79,7 @@
     "name": "Torre dei maghi",
     "set": "1",
     "type": "Castello",
+    "risorsa": "Mana",
     "properties": {
       "description": {
         "def": {
@@ -101,6 +104,7 @@
     "name": "Chiesa",
     "set": "1",
     "type": "Castello",
+    "risorsa": "Sacro",
     "properties": {
       "description": {
         "def": {
@@ -125,6 +129,7 @@
     "name": "Miniera",
     "set": "1",
     "type": "Castello",
+    "risorsa": "Materiali",
     "properties": {
       "description": {
         "def": {
