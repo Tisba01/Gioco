@@ -27,6 +27,11 @@
       "type": "stringEnumList"
     },
     {
+      "name": "costo",
+      "display": "Costo",
+      "type": "string"
+    },
+    {
       "name": "description",
       "type": "string",
       "display": "Description",
