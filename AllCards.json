@@ -4,6 +4,7 @@
     "name": "Castello",
     "set": "1",
     "type": "Castello",
+    "risorsa": "generica",
     "properties": {
       "description": {
         "def": {
