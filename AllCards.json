@@ -4,9 +4,7 @@
     "name": "Castello",
     "set": "1",
     "type": "Castello",
-    "properties": {},
-    "isBackFaceCard": false,
-    "backFaceId": ""
+    "properties": {}
   },
   {
     "id": "2",
